@@ -1,0 +1,10 @@
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\bin\Debug\File explorer.exe.config
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\bin\Debug\File explorer.exe
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\bin\Debug\File explorer.pdb
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File_explorer.Form1.resources
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File_explorer.Properties.Resources.resources
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File explorer.csproj.GenerateResource.cache
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File explorer.csproj.CoreCompileInputs.cache
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File explorer.exe
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File explorer.pdb
+F:\kemulator\Windroy\uit\source code .net\File explorer\File explorer\obj\Debug\File explorer.csprojAssemblyReference.cache
